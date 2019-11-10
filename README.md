@@ -1,4 +1,4 @@
 # githubExercise
-an exercise to be familiar with git usage
+sdfscxv
 
 first line
